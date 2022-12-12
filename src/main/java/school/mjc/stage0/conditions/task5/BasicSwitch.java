@@ -1,6 +1,7 @@
 package school.mjc.stage0.conditions.task5;
 
 public class BasicSwitch {
+
     public static void main(String[] args) {
         int a = 20;
         switch (a) {
@@ -13,7 +14,7 @@ public class BasicSwitch {
             case 10:
                 System.out.println("ten");
                 break;
-            case 20:
+            case 21:
                 System.out.println("twenty");
                 break;
         }
